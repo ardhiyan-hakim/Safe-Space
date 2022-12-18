@@ -1,10 +1,10 @@
-import React from "react";
-import { Route, Routes } from "react-router-dom";
+import React from 'react';
+import { Route, Routes } from 'react-router-dom';
 
-import "./App.css";
-import DetailPage from "./pages/DetailPage";
-import HomePage from "./pages/HomePage";
-import LandingPage from "./pages/LandingPage";
+import './App.css';
+import DetailPage from './pages/DetailPage';
+import HomePage from './pages/HomePage';
+import LandingPage from './pages/LandingPage';
 
 function App() {
   return (

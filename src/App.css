@@ -126,6 +126,8 @@ button {
 
 .background.login div,
 .background.register div {
+  display: flex;
+  justify-content: center;
   width: 90%;
 }
 
